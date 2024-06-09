@@ -1,5 +1,5 @@
 # 💫 About Me:
-📙 Sou estudante de Ciência da Computação<br>🖥️ Estou a procura de um estágio<br>🫡 Sou uma líder<br>🎨 Gosto de animes, desenho e jogos
+📙 Sou estudante de Ciência da Computação (essa conta é estudantil)<br>🖥️ Estou a procura de um estágio<br>🫡 Sou uma líder<br>🎨 Gosto de animes, desenho e jogos
 
 # 📊 GitHub Stats:
 <div>
